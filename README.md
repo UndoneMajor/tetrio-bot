@@ -104,16 +104,16 @@ The bot uses a evaluation system that considers:
 
 ```
 Tetrio-bot-main/
-├── bet.py                 # Main bot script
+├── bot.py                 # Main bot script
 ├── TetrisBoard.py         # Board management class
 ├── coordinates.json       # Saved coordinates
 ├── requirements.txt       # Python dependencies
-└── README.md             # This file
+└── README.md             # This file xdddddd
 ```
 
 ## ⚡ Performance Settings
 
-You can adjust these settings in `bet.py`:
+You can adjust these settings in `bot.py`:
 
 ```python
 # AI Settings
