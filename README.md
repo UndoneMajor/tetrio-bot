@@ -32,11 +32,11 @@ An intelligent Tetr.io bot that plays automatically with advanced hold mechanics
 - **;**: Reconfigure coordinates (in case you misclick or smth)
 
 ### Coordinate Setup (Manual Mode)
-- **[-]**: Set board top-left corner
-- **[=]**: Set board bottom-right corner
-- **[[ ]**: Set first piece position
-- **[] ]**: Set fifth piece position
-- **[\ ]**: Set hold box position
+- **" - "**: Set board top-left corner
+- **" = "**: Set board bottom-right corner
+- **" [ "**: Set first piece position
+- **" ] "**: Set fifth piece position
+- **" \ "**: Set hold box position
 - **ENTER**: Finish coordinate setup
 
 ## ⚙️ Setup Instructions (for newbs :P)
