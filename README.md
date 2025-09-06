@@ -192,6 +192,10 @@ The `coordinates.json` file contains: (NOTE THAT THIS IS JUST EXAMPLE AND YOU HA
 ## ⚠️ Disclaimer
 
 !!! This bot is for educational purposes. Please respect Tetr.io's terms of service and use responsibly. The bot is designed to help understand Tetris AI algorithms and should not be used to gain unfair advantages in competitive play !!!
+!!! This is pretty bannable as i *tested* it on a high ranked account and got banned on **blitz** so dont even think about it. Its completely for educational PURPOSES ONLY !!!
+
+https://github.com/user-attachments/assets/be0a750c-ffe3-4864-9ef5-c858dd4fa791
+
 
 ## 🤝 Contributing
 
